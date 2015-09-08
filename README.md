@@ -9,7 +9,7 @@ To run the app locally fron *nix, simply run the following command from the proj
 
 `python -m SimpleHTTPServer <PORT>`
 
-<PORT> should be 8080 or some other port you aren't currently using and would like to run you dev webserver.
+*PORT* should be 8080 or some other port you aren't currently using and would like to run you dev webserver.
 
 Navigate your browser to `http://localhost:<PORT>/main.html` and you should see the app running there.
 
