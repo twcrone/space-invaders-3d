@@ -2,7 +2,8 @@ Space Invaders 3d
 =================
 
 This is destined to be a relatively crude rendition of the old school video game "Space Invaders" using the *Three.js* 
-3D Library for _WebGL_.
+3D Library for _WebGL_.  Currently it is just some rotating shapes in space based on experimentation from book 
+_Learning Three.js - the JavaScript 3D Library for WebGL_ byt Jos Dirksen.
 
 To run the app locally fron *nix, simply run the following command from the project root:
 
